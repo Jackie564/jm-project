@@ -1,3 +1,11 @@
+/*
+Author: Jackline Mwaniki
+Reg no: BSE-01-0058/2025
+Description: Computing net_pay
+Date: 27/3/2025
+version 1
+*/
+
 #include <iostream>
 
 using namespace std;
